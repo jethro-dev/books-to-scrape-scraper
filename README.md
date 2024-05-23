@@ -1,6 +1,6 @@
 # Books to Scrape Scraper
 
-This project is a web scraper for the "Books to Scrape" website. It scrapes book details such as title, price, and availability from all the pages on the website.
+This project is a web scraper for the ["Books to Scrape"](https://books.toscrape.com/) website. It scrapes book details such as title, price, and availability from all the pages on the website.
 
 ## Features
 
